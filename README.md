@@ -1,7 +1,8 @@
 # Cuisine Website🍽
 
-### 🪄 Html, Css, JavaScript
+### Responsive Website using Html, Css,and JavaScrip
 
-##### @FEB23,2022
+- Compatible with all mobile devices.
+- Contains animations when scrolling.
 
 <img src="./README_image/ScreenImg-1.png" />
